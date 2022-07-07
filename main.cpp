@@ -1,7 +1,8 @@
 #include <iostream>
+#include "game.hpp"
 using namespace std;
 
 int main() {
-    cout << "Hello, World!" << endl;
+    makeGrid();
     return 0;
 }
